@@ -11,7 +11,7 @@ private:
 
 protected:
 	sf::Sprite sprite;
-	
+
 	HitboxComponent* hitboxComponent;
 	MovementComponent* movementComponent;
 	AnimationComponent* animationComponent;
